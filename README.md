@@ -1,2 +1,2 @@
 # learn-scipy-basics
-tutorial to learn scipy basis using jupyter notebook
+tutorial to learn scipy basics using jupyter notebook
